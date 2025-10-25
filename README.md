@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 👯 I’m looking to collaborate on **new projects**
+- 👯 I’m looking forward to work and collaborate on **new projects**
 
 - 📫 How to reach me **ernest.omondi7@gmail.com**
 
