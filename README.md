@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ernest Trevis</h1>
 <h3 align="center">A Computer Science Student at Strathmore University</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ernest-trevis" alt="ernest-trevis" /></a> </p>
-
 - 🌱 I’m currently learning **Computer Science**
 
-- 👯 I’m looking to work and collaborate on **new projects**
+- 👯 I’m looking to collaborate on **new projects**
 
 - 📫 How to reach me **ernest.omondi7@gmail.com**
 
@@ -22,18 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ernest-trevis&show_icons=true&locale=en" alt="ernest-trevis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ernest-trevis&" alt="ernest-trevis" /></p>
-
-<!--
-**Ernest-Trevis/Ernest-Trevis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
