@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Ernest Trevis</h1>
 <h3 align="center">A Computer Science Student at Strathmore University</h3>
 
