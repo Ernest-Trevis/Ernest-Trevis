@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ernest Trevis</h1>
-<h3 align="center">A Computer Science Student at Strathmore University</h3>
+<h3 align="center">A Student at Strathmore University</h3>
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 👯 I’m looking forward to work and collaborate on **new projects**
+- 👯 I’m looking forward to learn, work and collaborate on **new projects**
 
 - 📫 How to reach me **ernest.omondi7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/nesto._._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nesto._._" height="30" width="40" /></a>
+<a href="https://twitter.com/nesto16416324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nesto16416324" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
